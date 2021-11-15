@@ -1,6 +1,6 @@
 ---
-title: "A Mini Bookdown"
-author: "Your Name"
+title: "Systems Librainship"
+author: "Kayla Reed"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany

@@ -1,4 +1,4 @@
 # Prologue
 
 ##About this publication
-<p>This is the prologue to my book that I am writing for my GitHub class.</p>
+This is the prologue to my book that I am writing for my GitHub class.
